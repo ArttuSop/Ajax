@@ -1,0 +1,16 @@
+html {
+    background-color: green;
+    font-family: SansSerif;
+}
+ul {
+    background-color: chartreuse;
+    margin: 2rem;
+}
+p {
+    background-color: lightgreen;
+    padding: 0.5rem;
+}
+h3 {
+    background-color: limegreen;
+    font-family: Verdana;
+}
